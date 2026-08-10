@@ -1183,6 +1183,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 ✅  **Instead use**
 #### Web
 - [miniPaint](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
+- [Semaphore](https://semaphore.bobochang.cn/tool) - MIT-licensed alternative to hosted image-to-ASCII converters that processes images entirely in the browser with no uploads or tracking; its production CSP uses `connect-src 'none'`. ([Source](https://github.com/can4hou6joeng4/Semaphore))
 
 #### Desktop
 - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
